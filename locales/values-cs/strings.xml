@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
+ <string translatable="true" name="key1">Dobrý den, svět</string>
+ <string translatable="true" name="key2">Sbohem</string>
   <string translatable="true" name="sheep_1"><![CDATA[ovce]]></string>
+  <string name="giraffe_2" translatable="true"><![CDATA[Å¾irafa]]></string>
+  <string name="elephant_3" translatable="true"><![CDATA[slon]]></string>
   <string translatable="true" name="nineinch_4"><![CDATA[devítipalcové hřebíky]]></string>
   <string translatable="true" name="question_5"><![CDATA[otázka]]></string>
   <string translatable="true" name="newstrin_6"><![CDATA[nový řetězec]]></string>
@@ -9,6 +13,4 @@
   <string translatable="true" name="three_9"><![CDATA[tři]]></string>
   <string translatable="true" name="four_10"><![CDATA[čtyři]]></string>
   <string translatable="true" name="sunday_11"><![CDATA[neděle]]></string>
-  <string name="giraffe_2" translatable="true"><![CDATA[Å¾irafa]]></string>
-  <string name="elephant_3" translatable="true"><![CDATA[slon]]></string>
 </resources>

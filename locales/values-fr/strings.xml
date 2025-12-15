@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
+ <string translatable="true" name="key1">Bonjour le monde</string>
+ <string translatable="true" name="key2">Au revoir</string>
+  <string name="sheep_1" translatable="true"><![CDATA[mouton]]></string>
   <string translatable="true" name="giraffe_2"><![CDATA[girafe]]></string>
+  <string name="elephant_3" translatable="true"><![CDATA[Ã©lÃ©phant]]></string>
   <string translatable="true" name="nineinch_4"><![CDATA[clous de neuf pouces]]></string>
   <string translatable="true" name="question_5"><![CDATA[question]]></string>
   <string translatable="true" name="one_7"><![CDATA[un]]></string>
@@ -8,6 +12,4 @@
   <string translatable="true" name="three_9"><![CDATA[trois]]></string>
   <string translatable="true" name="four_10"><![CDATA[quatre]]></string>
   <string translatable="true" name="sunday_11"><![CDATA[dimanche]]></string>
-  <string name="sheep_1" translatable="true"><![CDATA[mouton]]></string>
-  <string name="elephant_3" translatable="true"><![CDATA[Ã©lÃ©phant]]></string>
 </resources>
