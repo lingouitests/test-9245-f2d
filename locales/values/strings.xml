@@ -2,15 +2,15 @@
 <resources>
  <string translatable="true" name="key1">Hello World</string>
  <string translatable="true" name="key2">Goodbye</string>
-  <string name="sheep_1" translatable="true"><![CDATA[sheep]]></string>
-  <string name="giraffe_2" translatable="true"><![CDATA[giraffe]]></string>
-  <string name="elephant_3" translatable="true"><![CDATA[elephant]]></string>
-  <string name="nineinch_4" translatable="true"><![CDATA[nine inch nails]]></string>
-  <string name="question_5" translatable="true"><![CDATA[question]]></string>
-  <string name="newstrin_6" translatable="true"><![CDATA[new string]]></string>
-  <string name="one_7" translatable="true"><![CDATA[one]]></string>
-  <string name="two_8" translatable="true"><![CDATA[two]]></string>
-  <string name="three_9" translatable="true"><![CDATA[three]]></string>
-  <string name="four_10" translatable="true"><![CDATA[four]]></string>
-  <string name="sunday_11" translatable="true"><![CDATA[sunday]]></string>
+  <string translatable="true" name="sheep_1"><![CDATA[sheep]]></string>
+  <string translatable="true" name="giraffe_2"><![CDATA[giraffe]]></string>
+  <string translatable="true" name="elephant_3"><![CDATA[elephant]]></string>
+  <string translatable="true" name="nineinch_4"><![CDATA[nine inch nails]]></string>
+  <string translatable="true" name="question_5"><![CDATA[question]]></string>
+  <string translatable="true" name="newstrin_6"><![CDATA[new string]]></string>
+  <string translatable="true" name="one_7"><![CDATA[one]]></string>
+  <string translatable="true" name="two_8"><![CDATA[two]]></string>
+  <string translatable="true" name="three_9"><![CDATA[three]]></string>
+  <string translatable="true" name="four_10"><![CDATA[four]]></string>
+  <string translatable="true" name="sunday_11"><![CDATA[sunday]]></string>
 </resources>

@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="sheep_1" translatable="true"><![CDATA[ovce]]></string>
-  <string name="nineinch_4" translatable="true"><![CDATA[devÃ­tipalcovÃ© hÅebÃ­ky]]></string>
-  <string name="question_5" translatable="true"><![CDATA[otÃ¡zka]]></string>
-  <string name="newstrin_6" translatable="true"><![CDATA[novÃ½ ÅetÄzec]]></string>
-  <string name="one_7" translatable="true"><![CDATA[jeden]]></string>
-  <string name="two_8" translatable="true"><![CDATA[dvÄ]]></string>
-  <string name="three_9" translatable="true"><![CDATA[tÅi]]></string>
-  <string name="four_10" translatable="true"><![CDATA[ÄtyÅi]]></string>
-  <string name="sunday_11" translatable="true"><![CDATA[nedÄle]]></string>
+  <string translatable="true" name="sheep_1"><![CDATA[ovce]]></string>
+  <string translatable="true" name="nineinch_4"><![CDATA[devítipalcové hřebíky]]></string>
+  <string translatable="true" name="question_5"><![CDATA[otázka]]></string>
+  <string translatable="true" name="newstrin_6"><![CDATA[nový řetězec]]></string>
+  <string translatable="true" name="one_7"><![CDATA[jeden]]></string>
+  <string translatable="true" name="two_8"><![CDATA[dvě]]></string>
+  <string translatable="true" name="three_9"><![CDATA[tři]]></string>
+  <string translatable="true" name="four_10"><![CDATA[čtyři]]></string>
+  <string translatable="true" name="sunday_11"><![CDATA[neděle]]></string>
+  <string name="giraffe_2" translatable="true"><![CDATA[Å¾irafa]]></string>
+  <string name="elephant_3" translatable="true"><![CDATA[slon]]></string>
 </resources>

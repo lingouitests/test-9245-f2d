@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="elephant_3" translatable="true"><![CDATA[elefante]]></string>
-  <string name="nineinch_4" translatable="true"><![CDATA[chiodi da nove pollici]]></string>
-  <string name="question_5" translatable="true"><![CDATA[domanda]]></string>
-  <string name="newstrin_6" translatable="true"><![CDATA[nuova stringa]]></string>
-  <string name="one_7" translatable="true"><![CDATA[uno]]></string>
-  <string name="two_8" translatable="true"><![CDATA[due]]></string>
-  <string name="three_9" translatable="true"><![CDATA[tre]]></string>
-  <string name="four_10" translatable="true"><![CDATA[quattro]]></string>
-  <string name="sunday_11" translatable="true"><![CDATA[domenica]]></string>
+  <string translatable="true" name="elephant_3"><![CDATA[elefante]]></string>
+  <string translatable="true" name="nineinch_4"><![CDATA[chiodi da nove pollici]]></string>
+  <string translatable="true" name="question_5"><![CDATA[domanda]]></string>
+  <string translatable="true" name="newstrin_6"><![CDATA[nuova stringa]]></string>
+  <string translatable="true" name="one_7"><![CDATA[uno]]></string>
+  <string translatable="true" name="two_8"><![CDATA[due]]></string>
+  <string translatable="true" name="three_9"><![CDATA[tre]]></string>
+  <string translatable="true" name="four_10"><![CDATA[quattro]]></string>
+  <string translatable="true" name="sunday_11"><![CDATA[domenica]]></string>
+  <string name="sheep_1" translatable="true"><![CDATA[pecora]]></string>
+  <string name="giraffe_2" translatable="true"><![CDATA[giraffa]]></string>
 </resources>

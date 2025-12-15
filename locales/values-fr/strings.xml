@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="giraffe_2" translatable="true"><![CDATA[girafe]]></string>
-  <string name="nineinch_4" translatable="true"><![CDATA[clous de neuf pouces]]></string>
-  <string name="question_5" translatable="true"><![CDATA[question]]></string>
-  <string name="one_7" translatable="true"><![CDATA[un]]></string>
-  <string name="two_8" translatable="true"><![CDATA[deux]]></string>
-  <string name="three_9" translatable="true"><![CDATA[trois]]></string>
-  <string name="four_10" translatable="true"><![CDATA[quatre]]></string>
-  <string name="sunday_11" translatable="true"><![CDATA[dimanche]]></string>
+  <string translatable="true" name="giraffe_2"><![CDATA[girafe]]></string>
+  <string translatable="true" name="nineinch_4"><![CDATA[clous de neuf pouces]]></string>
+  <string translatable="true" name="question_5"><![CDATA[question]]></string>
+  <string translatable="true" name="one_7"><![CDATA[un]]></string>
+  <string translatable="true" name="two_8"><![CDATA[deux]]></string>
+  <string translatable="true" name="three_9"><![CDATA[trois]]></string>
+  <string translatable="true" name="four_10"><![CDATA[quatre]]></string>
+  <string translatable="true" name="sunday_11"><![CDATA[dimanche]]></string>
+  <string name="sheep_1" translatable="true"><![CDATA[mouton]]></string>
+  <string name="elephant_3" translatable="true"><![CDATA[Ã©lÃ©phant]]></string>
 </resources>
