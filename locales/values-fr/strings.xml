@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="giraffe_2" translatable="true"><![CDATA[girafe]]></string>
+  <string name="nineinch_4" translatable="true"><![CDATA[clous de neuf pouces]]></string>
+  <string name="question_5" translatable="true"><![CDATA[question]]></string>
+  <string name="one_7" translatable="true"><![CDATA[un]]></string>
+  <string name="two_8" translatable="true"><![CDATA[deux]]></string>
+  <string name="three_9" translatable="true"><![CDATA[trois]]></string>
+  <string name="four_10" translatable="true"><![CDATA[quatre]]></string>
+  <string name="sunday_11" translatable="true"><![CDATA[dimanche]]></string>
+</resources>

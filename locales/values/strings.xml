@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
- <string name="key1" translatable="true">Hello World</string>
- <string name="key2" translatable="true">Goodbye</string>
+ <string translatable="true" name="key1">Hello World</string>
+ <string translatable="true" name="key2">Goodbye</string>
+  <string name="sheep_1" translatable="true"><![CDATA[sheep]]></string>
+  <string name="giraffe_2" translatable="true"><![CDATA[giraffe]]></string>
+  <string name="elephant_3" translatable="true"><![CDATA[elephant]]></string>
+  <string name="nineinch_4" translatable="true"><![CDATA[nine inch nails]]></string>
+  <string name="question_5" translatable="true"><![CDATA[question]]></string>
+  <string name="newstrin_6" translatable="true"><![CDATA[new string]]></string>
+  <string name="one_7" translatable="true"><![CDATA[one]]></string>
+  <string name="two_8" translatable="true"><![CDATA[two]]></string>
+  <string name="three_9" translatable="true"><![CDATA[three]]></string>
+  <string name="four_10" translatable="true"><![CDATA[four]]></string>
+  <string name="sunday_11" translatable="true"><![CDATA[sunday]]></string>
 </resources>

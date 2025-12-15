@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="elephant_3" translatable="true"><![CDATA[elefante]]></string>
+  <string name="nineinch_4" translatable="true"><![CDATA[chiodi da nove pollici]]></string>
+  <string name="question_5" translatable="true"><![CDATA[domanda]]></string>
+  <string name="newstrin_6" translatable="true"><![CDATA[nuova stringa]]></string>
+  <string name="one_7" translatable="true"><![CDATA[uno]]></string>
+  <string name="two_8" translatable="true"><![CDATA[due]]></string>
+  <string name="three_9" translatable="true"><![CDATA[tre]]></string>
+  <string name="four_10" translatable="true"><![CDATA[quattro]]></string>
+  <string name="sunday_11" translatable="true"><![CDATA[domenica]]></string>
+</resources>
