@@ -9,6 +9,6 @@
   <string translatable="true" name="three_9"><![CDATA[tre]]></string>
   <string translatable="true" name="four_10"><![CDATA[quattro]]></string>
   <string translatable="true" name="sunday_11"><![CDATA[domenica]]></string>
-  <string name="sheep_1" translatable="true"><![CDATA[pecora]]></string>
-  <string name="giraffe_2" translatable="true"><![CDATA[giraffa]]></string>
+  <string translatable="true" name="sheep_1"><![CDATA[pecora]]></string>
+  <string translatable="true" name="giraffe_2"><![CDATA[giraffa]]></string>
 </resources>

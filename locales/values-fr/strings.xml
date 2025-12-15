@@ -2,9 +2,9 @@
 <resources>
  <string translatable="true" name="key1">Bonjour le monde</string>
  <string translatable="true" name="key2">Au revoir</string>
-  <string name="sheep_1" translatable="true"><![CDATA[mouton]]></string>
+  <string translatable="true" name="sheep_1"><![CDATA[mouton]]></string>
   <string translatable="true" name="giraffe_2"><![CDATA[girafe]]></string>
-  <string name="elephant_3" translatable="true"><![CDATA[Ã©lÃ©phant]]></string>
+  <string translatable="true" name="elephant_3"><![CDATA[éléphant]]></string>
   <string translatable="true" name="nineinch_4"><![CDATA[clous de neuf pouces]]></string>
   <string translatable="true" name="question_5"><![CDATA[question]]></string>
   <string translatable="true" name="one_7"><![CDATA[un]]></string>
